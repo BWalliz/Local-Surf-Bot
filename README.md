@@ -3,6 +3,12 @@ Telegram bot that provides daily surf conditions of a single location, retreived
 
 To set up, please send a "/start" message to @SurflineTelegramBot on the [Telegram](https://telegram.org/) messaging app or to deploy your own bot follow the instructions after the picture examples below.
 
+![Ex](./assets/ex.png)
+![Ex4](./assets/ex4.png)
+![Ex1](./assets/ex1.png)
+![Ex2](./assets/ex2.png)
+![Ex3](./assets/ex3.png)
+
 ## Instructions
 * Install dependencies `pip install -r requirements.txt`
 * [Register](https://core.telegram.org/api/obtaining_api_id) the bot and set the api id, api hash, and bot token in `.env` (see `env_sample`)
